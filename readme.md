@@ -1,4 +1,7 @@
-# UK Parliament Software Engineering
+# UK Parliament - Software Engineering
+
+## Introduction
+
 Thanks for taking our code test. We'd like you to implement an API for a fictional room booking system. 
 
 We have put together a starter solution for you. This starter solution includes:
@@ -9,6 +12,10 @@ We have put together a starter solution for you. This starter solution includes:
 * The beginnings of a data model. It is important to note **this model is incomplete, you will need to extend it**
 
 You should be able to run this project out of the box in kestrel. 
+
+## Submitting your test
+* After you have complete this test please host your solution on GitHub (or another git based hosting platform)
+* Provide us with a link so we can clone your solution
 
 ## Task
 We would like you to do the following
@@ -30,3 +37,4 @@ We would like you to do the following
         * A room booking can be for a variable length of time, but it can be at maximum 1 hour long
     * Remove a room booking
     * See what rooms are available for a given time period
+
