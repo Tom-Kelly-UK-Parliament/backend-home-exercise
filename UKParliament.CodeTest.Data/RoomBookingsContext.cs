@@ -13,7 +13,5 @@ namespace UKParliament.CodeTest.Data
         public DbSet<Person> People { get; set; }
 
         public DbSet<Room> Rooms { get; set; }
-
-        public DbSet<RoomBooking> RoomBookings { get; set; }
     }
 }
