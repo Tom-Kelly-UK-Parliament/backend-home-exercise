@@ -28,7 +28,7 @@ We would like you to do the following
 ### Rooms
 * Write a series of endpoints to manage rooms
     * Add rooms
-        * Ensure a room must have a unique name
+        * Rooms must have a unique name
     * Update rooms    
     * Search for rooms
     * Delete rooms, optionally shifting all bookings to another specified room
